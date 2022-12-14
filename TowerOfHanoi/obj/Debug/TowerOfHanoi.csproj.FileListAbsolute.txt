@@ -1,0 +1,44 @@
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.AssemblyReference.cache
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.SuggestedBindingRedirects.cache
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.Properties.Resources.resources
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.GenerateResource.cache
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
+D:\Code\School\ProjectCTDL_GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.FormGame.resources
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.AssemblyReference.cache
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.SuggestedBindingRedirects.cache
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\obj\Debug\TowerOfHanoi.FormGame.resources
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\obj\Debug\TowerOfHanoi.Properties.Resources.resources
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.GenerateResource.cache
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+D:\Code\C#\Windows Form\DoAn\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.AssemblyReference.cache
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.SuggestedBindingRedirects.cache
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.FormGame.resources
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.Properties.Resources.resources
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.GenerateResource.cache
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+D:\Code\School\Project_CTDL-GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.AssemblyReference.cache
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.SuggestedBindingRedirects.cache
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.FormGame.resources
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.Properties.Resources.resources
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.GenerateResource.cache
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.csproj.CoreCompileInputs.cache
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.exe
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\obj\Debug\TowerOfHanoi.pdb
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe.config
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\bin\Debug\TowerOfHanoi.exe
+D:\Code\School\Project_CTDL&GT\TowerOfHanoi\bin\Debug\TowerOfHanoi.pdb
